@@ -1,0 +1,7 @@
+name: poc-wp-podman
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - pdm
+  - podman-compose
